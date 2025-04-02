@@ -1,0 +1,9 @@
+[submodule "TanStack_UserManagement_Assignment4"]
+	path = TanStack_UserManagement_Assignment4
+	url = git@github.com:Golchha-Harsh/TanStack_UserManagement_Assignment4
+[submodule "Debugging_02.git"]
+	path = Debugging_02.git
+	url = git@github.com:Golchha-Harsh/Debugging_02.git
+[submodule "Scrolling-Input_Assigment3.git"]
+	path = Scrolling-Input_Assigment3.git
+	url = git@github.com:Golchha-Harsh/Scrolling-Input_Assigment3.git
