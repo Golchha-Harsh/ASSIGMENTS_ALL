@@ -10,3 +10,6 @@
 [submodule "InputScrollRef_01"]
 	path = InputScrollRef_01
 	url = git@github.com:Golchha-Harsh/InputScrollRef_01
+[submodule "Debugging_02"]
+	path = Debugging_02
+	url = git@github.com:Golchha-Harsh/Debugging_02
