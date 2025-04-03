@@ -7,3 +7,6 @@
 [submodule "Scrolling-Input_Assigment3.git"]
 	path = Scrolling-Input_Assigment3.git
 	url = git@github.com:Golchha-Harsh/Scrolling-Input_Assigment3.git
+[submodule "InputScrollRef_01"]
+	path = InputScrollRef_01
+	url = git@github.com:Golchha-Harsh/InputScrollRef_01
