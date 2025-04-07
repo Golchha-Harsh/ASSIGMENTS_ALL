@@ -19,3 +19,6 @@
 [submodule "TanStack_04"]
 	path = TanStack_04
 	url = git@github.com:Golchha-Harsh/TanStack_04
+[submodule "React_Project_05"]
+	path = React_Project_05
+	url = git@github.com:Golchha-Harsh/React_Project_AssigmentMega.git
