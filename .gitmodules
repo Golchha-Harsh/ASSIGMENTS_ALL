@@ -22,3 +22,6 @@
 [submodule "React_Project_05"]
 	path = React_Project_05
 	url = git@github.com:Golchha-Harsh/React_Project_AssigmentMega.git
+[submodule "React_Project_AssigmentMega.git"]
+	path = React_Project_AssigmentMega.git
+	url = https://github.com/Golchha-Harsh/React_Project_AssigmentMega.git
