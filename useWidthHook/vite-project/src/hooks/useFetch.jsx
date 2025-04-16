@@ -58,7 +58,7 @@ function useFetch(url) {
     fetchData(true); //pssing exporting Refetch function as a refresh or to refetch
   };
 
-  return { data, loading, error, refetch,refetching };
+  return { data, loading, error, refetch, refetching };
 }
 
 export default useFetch;
