@@ -1,0 +1,14 @@
+.count-display {
+    margin: 1rem 0;
+  }
+  
+  .bounce {
+    animation: bounceScale 0.4s ease-in-out;
+  }
+  
+  @keyframes bounceScale {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+  
